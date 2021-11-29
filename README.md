@@ -33,8 +33,8 @@ berikut program dan hasil outputnya:<P>
                 break
 
 gambar pemrograman :<p>
-![gambar 1](/sc1.PNG)
+![gambar 1](ss/ss1.PNG)
 dan inilah hasil output nya<P>
-![gambar 2](/.PNG)
+![gambar 2](ss/ss2.PNG)
 Dan berikut terakhir flowchartnya<P>
-![gambar 3](/flow.jpg)
+![gambar 3](ss/flow.jpg)
